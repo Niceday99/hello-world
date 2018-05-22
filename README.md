@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Human,
+
+This is my fisrt greeting from outer space!
+Good luck man.
